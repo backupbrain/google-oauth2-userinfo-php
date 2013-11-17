@@ -1,4 +1,4 @@
-Email Relay with PHP
+Identifing Your Users
 =============================
 This code shows how to grab an OAuth2 authenticated user's userinfo for a Google+ account.
 The profile information that comes back will include a name, user id, profile picture, and google+ url.
